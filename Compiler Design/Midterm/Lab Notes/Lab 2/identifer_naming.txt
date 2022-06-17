@@ -1,0 +1,11 @@
+Identifier Naming
+Variables are examples of identifiers. Identifiers are names given to identify something. There are some rules you have to follow for naming identifiers:
+•	The first character of the identifier must be a letter of the alphabet (upper or lowercase) or an underscore ('_').
+•	The rest of the identifier name can consist of letters (upper or lowercase), underscores ('_') or digits (0-9).
+•	Identifier names are case-sensitive. For example, myname and myName are not the same. Note the lowercase n in the former and the uppercase N in te latter.
+•	Examples of valid identifier names are i, __my_name, name_23 and a1b2_c3.
+•	Examples of invalid identifier names are 2things, this is spaced out and my-name.
+
+e.g. 
+
+i  - valid identifer

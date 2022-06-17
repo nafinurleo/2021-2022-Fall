@@ -1,0 +1,8 @@
+https://www.youtube.com/watch?v=2tadY3dgods&list=PLfW2kTJ6mfnb_qZU0WNKmfkU8DSuupyai&index=5
+
+https://codeforwin.org/2015/11/string-programming-exercises-and-solutions-in-c.html
+
+https://www.geeksforgeeks.org/strtok-strtok_r-functions-c-examples/
+
+
+https://stackoverflow.com/questions/40539418/what-is-the-best-way-to-write-a-syntax-tokenizer-parser-in-c

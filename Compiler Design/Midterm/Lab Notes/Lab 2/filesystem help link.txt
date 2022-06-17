@@ -1,0 +1,4 @@
+https://fresh2refresh.com/c-programming/c-file-handling/fseek-seek_set-seek_cur-seek_end-functions-c/
+
+
+http://www.java2s.com/Tutorial/Cpp/0240__File-Stream/Readtextfiletokenbytoken.htm

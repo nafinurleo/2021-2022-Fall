@@ -1,0 +1,27 @@
+hello,how are you?
+i am fine, thank you.
+Name: s Marks: 2 
+
+Name: d Marks: 3 
+
+Name: f Marks: 4 
+
+Name: 2 Marks: 3 
+
+Name: e Marks: 3 
+
+Name: e Marks: 3 
+
+Name: 2 Marks: 3 
+
+Name: 4 Marks: 5 
+
+Name: a Marks: 3 
+
+Name: b Marks: 4 
+
+Name: c Marks: 5 
+
+Name: d Marks: 6 
+
+Name: e Marks: 7 
